@@ -3,12 +3,12 @@
   <remote name="gitlab" fetch="https://gitlab.com/" />
 
   <!-- Common and extra repos -->
-  <project name="LineageOS/android_device_google_gs-common" path="device/google/gs-common" revision="lineage-22.1" remote="github" clone-depth="1" />
-  <project name="LineageOS/android_device_google_gs101" path="device/google/gs101" revision="lineage-22.1" remote="github" clone-depth="1" />
-  <project name="LineageOS/android_packages_apps_ElmyraService" path="packages/apps/ElmyraService" revision="lineage-22.1" remote="github" clone-depth="1" />
+  <project name="LineageOS/android_device_google_gs-common" path="device/google/gs-common" revision="lineage-22.2" remote="github" clone-depth="1" />
+  <project name="LineageOS/android_device_google_gs101" path="device/google/gs101" revision="lineage-22.2" remote="github" clone-depth="1" />
+  <project name="LineageOS/android_packages_apps_ElmyraService" path="packages/apps/ElmyraService" revision="lineage-22.2" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_faceunlock" path="vendor/google/faceunlock" revision="15.0" remote="gitlab" clone-depth="1" />
   <project name="crdroidandroid/android_packages_apps_PixelParts" path="packages/apps/PixelParts" revision="15.0" remote="github" clone-depth="1" />
-  <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" revision="v4a" remote="github" clone-depth="1" />
+  <!-- <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" revision="v4a" remote="github" clone-depth="1" /> -->
 
   <!-- Google Pixel 8 Series -->
   <project name="ionutsandroidbuilds/android_device_google_akita" path="device/google/akita" revision="15.0" remote="github" clone-depth="1" />
@@ -17,14 +17,14 @@
   <project name="ionutsandroidbuilds/proprietary_vendor_google_akita" path="vendor/google/akita" revision="15.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_husky" path="vendor/google/husky" revision="15.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_shiba" path="vendor/google/shiba" revision="15.0" remote="gitlab" clone-depth="1" />
-  <project name="device/google/shusky-kernels/5.15" path="device/google/shusky-kernels/5.15" revision="refs/tags/android-15.0.0_r14" remote="aosp" clone-depth="1" />
-  <project name="device/google/akita-kernels/5.15" path="device/google/akita-kernels/5.15" revision="refs/tags/android-15.0.0_r14" remote="aosp" clone-depth="1" />
+  <project name="device/google/shusky-kernels/6.1" path="device/google/shusky-kernels/6.1" revision="refs/tags/android-15.0.0_r23" remote="aosp" clone-depth="1" />
+  <project name="device/google/akita-kernels/6.1" path="device/google/akita-kernels/6.1" revision="refs/tags/android-15.0.0_r23" remote="aosp" clone-depth="1" />
 
-  <!-- Google Pixel 2 Series -->
+  <!-- Google Pixel 2 Series
   <project name="ionutsandroidbuilds/android_device_google_taimen" path="device/google/taimen" revision="15.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_device_google_walleye" path="device/google/walleye" revision="15.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_device_google_wahoo" path="device/google/wahoo" revision="15.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_kernel_google_wahoo" path="kernel/google/wahoo" revision="15.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_taimen" path="vendor/google/taimen" revision="15.0" remote="gitlab" clone-depth="1" />
-  <project name="ionutsandroidbuilds/proprietary_vendor_google_walleye" path="vendor/google/walleye" revision="15.0" remote="gitlab" clone-depth="1" />
+  <project name="ionutsandroidbuilds/proprietary_vendor_google_walleye" path="vendor/google/walleye" revision="15.0" remote="gitlab" clone-depth="1" /> -->
 </manifest>

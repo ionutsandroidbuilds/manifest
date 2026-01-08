@@ -3,8 +3,8 @@
   <remote name="gitlab" fetch="https://gitlab.com/" />
 
   <!-- Common and extra repos -->
-  <project name="LineageOS/android_device_google_gs-common" path="device/google/gs-common" revision="lineage-23.0" remote="github" clone-depth="1" />
-  <project name="ionutsandroidbuilds/proprietary_vendor_google_faceunlock" path="vendor/google/faceunlock" revision="16.0" remote="gitlab" clone-depth="1" />
+  <project name="LineageOS/android_device_google_gs-common" path="device/google/gs-common" revision="lineage-23.1" remote="github" clone-depth="1" />
+  <project name="crdroidandroid/proprietary_vendor_google_faceunlock" path="vendor/google/faceunlock" revision="16.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_camera" path="vendor/google/camera" revision="15.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_pixels_extras" path="vendor/google/pixels_extras" revision="16.0" remote="gitlab" clone-depth="1" />
   <project name="Chaitanyakm/vendor_bcr" path="vendor/bcr" revision="main" remote="github" clone-depth="1" />
@@ -13,9 +13,9 @@
   <project name="ionutsandroidbuilds/android_device_google_akita" path="device/google/akita" revision="16.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_device_google_shusky" path="device/google/shusky" revision="16.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_device_google_zuma" path="device/google/zuma" revision="16.0" remote="github" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_akita" path="vendor/google/akita" revision="lineage-23.0" remote="github" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" revision="lineage-23.0" remote="github" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_shiba" path="vendor/google/shiba" revision="lineage-23.0" remote="github" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_akita" path="vendor/google/akita" revision="lineage-23.1" remote="github" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" revision="lineage-23.1" remote="github" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_shiba" path="vendor/google/shiba" revision="lineage-23.1" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_device_google_shusky-kernels" path="device/google/shusky-kernels" revision="16.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_device_google_akita-kernels" path="device/google/akita-kernels" revision="16.0" remote="github" clone-depth="1" />
 </manifest>

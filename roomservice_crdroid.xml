@@ -5,6 +5,7 @@
   <!-- Common and extra repos -->
   <project name="LineageOS/android_device_google_gs-common" path="device/google/gs-common" revision="lineage-22.2" remote="github" clone-depth="1" />
   <project name="LineageOS/android_packages_apps_ElmyraService" path="packages/apps/ElmyraService" revision="lineage-22.2" remote="github" clone-depth="1" />
+  <project name="ionutsandroidbuilds/proprietary_vendor_google_camera" path="vendor/google/camera" revision="wahoo" remote="gitlab" clone-depth="1" />
   <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" revision="v4a" remote="github" clone-depth="1" />
 
   <!-- Google Pixel 2 Series -->

@@ -5,7 +5,7 @@
   <!-- Common and extra repos -->
   <project name="LineageOS/android_device_google_gs-common" path="device/google/gs-common" revision="lineage-23.2" remote="github" clone-depth="1" />
   <project name="crdroidandroid/proprietary_vendor_google_faceunlock" path="vendor/google/faceunlock" revision="16.0" remote="gitlab" clone-depth="1" />
-  <project name="ionutsandroidbuilds/proprietary_vendor_google_camera" path="vendor/google/camera" revision="15.0" remote="gitlab" clone-depth="1" />
+  <project name="ionutsandroidbuilds/proprietary_vendor_google_camera" path="vendor/google/camera" revision="zuma" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_pixels_extras" path="vendor/google/pixels_extras" revision="16.0" remote="gitlab" clone-depth="1" />
   <project name="Chaitanyakm/vendor_bcr" path="vendor/bcr" revision="main" remote="github" clone-depth="1" />
 

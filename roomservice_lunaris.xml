@@ -7,12 +7,11 @@
   <project name="crdroidandroid/proprietary_vendor_google_faceunlock" path="vendor/google/faceunlock" revision="16.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_camera" path="vendor/google/camera" revision="zuma" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_pixels_extras" path="vendor/google/pixels_extras" revision="16.0" remote="gitlab" clone-depth="1" />
-  <project name="Chaitanyakm/vendor_bcr" path="vendor/bcr" revision="main" remote="github" clone-depth="1" />
 
   <!-- Google Pixel 8 Series -->
-  <project name="ionutsandroidbuilds/android_device_google_akita" path="device/google/akita" revision="16.0" remote="github" clone-depth="1" />
-  <project name="ionutsandroidbuilds/android_device_google_shusky" path="device/google/shusky" revision="16.0" remote="github" clone-depth="1" />
-  <project name="ionutsandroidbuilds/android_device_google_zuma" path="device/google/zuma" revision="16.0" remote="github" clone-depth="1" />
+  <project name="ionutsandroidbuilds/android_device_google_akita" path="device/google/akita" revision="16.2" remote="github" clone-depth="1" />
+  <project name="ionutsandroidbuilds/android_device_google_shusky" path="device/google/shusky" revision="16.2" remote="github" clone-depth="1" />
+  <project name="ionutsandroidbuilds/android_device_google_zuma" path="device/google/zuma" revision="16.2" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_akita" path="vendor/google/akita" revision="16.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_husky" path="vendor/google/husky" revision="16.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_shiba" path="vendor/google/shiba" revision="16.0" remote="gitlab" clone-depth="1" />

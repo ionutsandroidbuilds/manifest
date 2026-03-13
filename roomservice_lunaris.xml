@@ -7,6 +7,7 @@
   <project name="crdroidandroid/proprietary_vendor_google_faceunlock" path="vendor/google/faceunlock" revision="16.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_camera" path="vendor/google/camera" revision="zuma" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_pixels_extras" path="vendor/google/pixels_extras" revision="16.0" remote="gitlab" clone-depth="1" />
+  <project name="ionutgherman/android_packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" revision="v4a" remote="github" clone-depth="1" />
 
   <!-- Google Pixel 8 Series -->
   <project name="ionutsandroidbuilds/android_device_google_akita" path="device/google/akita" revision="16.2" remote="github" clone-depth="1" />

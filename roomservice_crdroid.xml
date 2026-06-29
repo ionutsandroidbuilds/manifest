@@ -13,6 +13,6 @@
   <project name="ionutsandroidbuilds/android_device_google_walleye" path="device/google/walleye" revision="15.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_device_google_wahoo" path="device/google/wahoo" revision="15.0" remote="github" clone-depth="1" />
   <project name="ionutsandroidbuilds/android_kernel_google_wahoo" path="kernel/google/wahoo" revision="15.0" remote="github" clone-depth="1" />
-  <project name="ionutsandroidbuilds/proprietary_vendor_google_taimen" path="vendor/google/taimen" revision="15.0" remote="gitlab" clone-depth="1" />
+  <project name="ionutsandroidbuilds/proprietary_vendor_google_taimen" path="vendor/google/taimen" revision="15.0-test" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_walleye" path="vendor/google/walleye" revision="15.0" remote="gitlab" clone-depth="1" />
 </manifest>
